@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,Espresso Beans 1kg,Coffee,30.22
+2,Cold Brew Concentrate,Coffee,5.03
+3,Oat Milk Carton,Dairy Alt,15.28
+4,Ceramic Mug,Drinkware,13.15
+5,Pour-Over Dripper,Equipment,34.2
+6,Reusable Tumbler,Drinkware,31.74
+7,Chocolate Croissant,Bakery,40.58
+8,Blueberry Muffin,Bakery,7.56
+9,Bagel 6-pack,Bakery,21.3
+10,Matcha Powder,Tea,5.22
+11,Chai Concentrate,Tea,12.96
+12,Green Tea Box,Tea,24.72
+13,French Press,Equipment,5.09
+14,Milk Frother,Equipment,12.15
+15,Coffee Grinder,Equipment,30.65
+16,Caramel Syrup,Syrup,26.34
+17,Vanilla Syrup,Syrup,13.04
+18,Hazelnut Syrup,Syrup,28.16
+19,Granola Bag,Snacks,37.19
+20,Trail Mix,Snacks,4.27

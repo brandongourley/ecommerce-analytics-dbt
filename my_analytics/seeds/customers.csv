@@ -1,0 +1,121 @@
+customer_id,name,city,signup_date
+1,Zach,DENVER,2025-03-08
+2,Kara,austin,2024-06-08
+3,Grace,Miami,2024-12-10
+4,Dave,denver,2025-01-24
+5,Dave,Seattle,2024-12-18
+6,Tina,austin,2024-02-14
+7,Xander,Portland,2024-05-07
+8,Mia,denver,2024-10-27
+9,Uma,boston,2025-01-05
+10,Sam,Austin,2024-03-12
+11,Bob,Chicago,2024-08-21
+12,Yara,austin,2024-03-22
+13,Henry,Denver ,2024-04-13
+14,Mia,austin,2025-04-09
+15,Uma,Denver ,2025-01-08
+16,Fiona,Seattle,2024-12-29
+17,Grace,Chicago,2024-09-30
+18,Wendy,Chicago,2024-03-14
+19,Tina,Chicago,2024-06-24
+20,Rosa, Chicago,2024-09-07
+21,Fiona,Portland,2025-01-23
+22,Ivy,Chicago,2024-08-12
+23,Victor,Seattle,2024-02-27
+24,Henry,Denver ,2024-02-02
+25,Zach,Seattle,2025-02-14
+26,Ivy,denver,2024-08-04
+27,Sam, Chicago,2024-11-18
+28,Grace,Chicago,2025-05-26
+29,Mia,Chicago,2025-04-14
+30,Eli,austin,2024-05-22
+31,Henry, Chicago,2024-09-26
+32,Xander,boston,2025-03-14
+33,Sam,seattle ,2025-01-05
+34,Henry,DENVER,2025-06-05
+35,Pete,denver,2024-02-18
+36,Dave,DENVER,2024-06-12
+37,Zach,Chicago,2025-03-08
+38,Tina,denver,2025-01-29
+39,Mia,boston,2025-04-24
+40,Quinn,austin,2024-01-12
+41,Victor, Chicago,2024-04-27
+42,Victor,Boston,2024-09-30
+43,Yara,Chicago,2024-12-14
+44,Dave,austin,2025-03-21
+45,Fiona,Portland,2024-01-04
+46,Xander, Chicago,2024-09-26
+47,Quinn,Miami,2024-07-01
+48,Quinn,denver,2024-11-01
+49,Uma,Boston,2024-07-22
+50,Eli,Seattle,2024-06-14
+51,Rosa,Miami,2024-01-01
+52,Tina,Seattle,2025-05-15
+53,Alice,denver,2025-01-06
+54,Zach,austin,2024-09-02
+55,Bob,Austin,2024-03-21
+56,Carol, Chicago,2025-05-12
+57,Carol,Miami,2024-05-08
+58,Eli,Chicago,2025-05-01
+59,Rosa,DENVER,2024-09-28
+60,Quinn,Denver ,2025-03-09
+61,Grace,Boston,2024-07-24
+62,Wendy,austin,2025-02-12
+63,Victor,Chicago,2025-01-17
+64,Olivia,Boston,2025-04-07
+65,Dave,Austin,2024-08-18
+66,Carol,Seattle,2024-01-22
+67,Sam,Boston,2024-08-23
+68,Sam,Austin,2024-01-08
+69,Carol, Chicago,2024-03-01
+70,Henry,denver,2024-02-02
+71,Kara,denver,2025-06-10
+72,Henry,austin,2025-05-12
+73,Grace,Boston,2024-05-15
+74,Xander,boston,2025-04-29
+75,Henry,Miami,2025-04-29
+76,Zach,seattle ,2024-07-13
+77,Dave,denver,2025-03-17
+78,Liam,seattle ,2025-02-24
+79,Olivia,Denver ,2024-02-25
+80,Victor,Chicago,2024-04-10
+81,Bob,seattle ,2024-12-13
+82,Zach,Denver ,2024-04-21
+83,Henry,Austin,2024-07-13
+84,Rosa,Portland,2024-05-23
+85,Noah,DENVER,2024-10-12
+86,Olivia,Austin,2024-03-18
+87,Olivia,Miami,2024-04-10
+88,Bob,Chicago,2024-01-16
+89,Carol,Miami,2024-08-30
+90,Fiona,seattle ,2025-05-12
+91,Pete,Austin,2025-02-14
+92,Bob,DENVER,2025-01-23
+93,Alice,seattle ,2024-09-28
+94,Zach,Miami,2025-04-10
+95,Jack,seattle ,2025-05-13
+96,Eli,Austin,2024-10-30
+97,Grace,Denver,2024-03-03
+98,Xander,Seattle,2024-02-28
+99,Bob,boston,2025-05-03
+100,Quinn,Denver ,2024-06-10
+101,Bob,Boston,2024-03-23
+102,Fiona,denver,2024-03-10
+103,Victor,Denver ,2024-08-28
+104,Mia,denver,2024-09-09
+105,Sam,boston,2024-02-10
+106,Tina,denver,2025-03-05
+107,Victor,boston,2025-06-19
+108,Kara,austin,2024-07-28
+109,Victor, Chicago,2024-11-17
+110,Henry,austin,2025-02-09
+111,Eli,Chicago,2024-11-03
+112,Olivia,Seattle,2024-03-15
+113,Alice,Portland,2024-04-12
+114,Carol,Boston,2024-08-06
+115,Quinn,austin,2024-05-15
+116,Liam,denver,2024-09-07
+117,Liam,austin,2024-06-10
+118,Olivia,Denver ,2024-11-05
+119,Tina,Miami,2024-01-09
+120,Victor,Denver ,2024-11-02
