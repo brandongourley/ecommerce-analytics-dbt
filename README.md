@@ -43,5 +43,3 @@ dbt docs generate && dbt docs serve   # docs + lineage graph
 
 Built as a hands-on project to learn the modern data stack. The dataset is generated sample data, deliberately given realistic messiness (inconsistent casing, mixed statuses) so the staging layer does real cleanup work. The structure, tests, and modeling patterns mirror how production dbt projects are organized.
 =======
-
->>>>>>> 9a3284db39274546ce892ec84ac27ff27cfcfbf6
