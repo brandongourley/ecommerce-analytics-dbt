@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-Commerce Analytics: dbt Project
 
 A dbt project built to practice the modern analytics-engineering workflow end to end: raw source data modeled through a staging layer into analytics-ready marts, with automated data-quality tests and generated documentation. Built on DuckDB.
