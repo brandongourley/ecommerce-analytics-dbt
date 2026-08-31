@@ -30,6 +30,7 @@ Automated tests (`schema.yml`) validate keys across the pipeline — `unique` an
 - **dbt** (transformation, testing, docs, lineage)
 - **DuckDB** (local warehouse)
 - **SQL** (CTEs, joins, aggregation)
+- **BigQuery** (also runs against Google's cloud warehouse — same models, connection swap)
 
 ## Running it
 
